@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de Usuario</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <label for="nombre">Nombre</label><br>
+    <input type="text" name="nombre" id="nombre"><br>
+    <label for="fecha">Fecha de nacimiento</label><br>
+    <input type="date" name="fecha" id="fecha"><br>
+    <label for="genero">Género</label><br>
+    <select name="genero" id="genero">
+        <option value="Masculino">Masculino</option>
+        <option value="Femenino">Femenino</option>
+    </select><br>
+    <label for="departamento">Departamento</label><br>
+    <input type="text" name="departamento" id="departamento"><br>
+    <label for="ciudad">Ciudad</label><br>
+    <input type="text" name="ciudad" id="ciudad"><br>
+    <label for="telefono">Número de teléfono</label><br>
+    <input type="text" name="telefono" id="telefono"><br>
+    <label for="descripcion">Descripción</label><br>
+    <input type="text" name="descripcion" id="descripcion"><br>
+    <br><br>
+    <input type="button" value="Registrarse" onclick="mostrarDatosUsuario()">
+    <br>
+    <a href="index.html">¿Ya tienes una cuenta? Inicia sesión aquí</a>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <br>
+    <button type="button">
+        Perfil
+        <span>
+          <span >New alerts</span>
+        </span>
+      </button>
+      <br><br>
+    <div>
+       
+       <a href="#" onclick="enviar()"> <img src="img/images.png" title="Editar información" class="card-img-top" alt="..."></a>
+        <div class="card-body">
+          <h5 class="card-title" id="nombre"></h5>
+        </div>
+        <ul>
+          <li id="fecha"></li>
+          <li id="genero"></li>
+          <li id="departamento"></li>
+          <li id="ciudad"></li>
+          <li id="telefono"></li>
+          <li id="descripcion"></li>
+        </ul>
+      
+      </div>
+</body>
+</html>
+<script>
+  var urlParams = new URLSearchParams(window.location.search)
+
+var nombre1 = urlParams.get('nombre')
+var fecha1 = urlParams.get('fecha')
+var genero1 = urlParams.get('genero')
+var departamento1 = urlParams.get('departamento')
+var ciudad1 = urlParams.get('ciudad')
+var telefono1 = urlParams.get('telefono')
+var descripcion1 = urlParams.get('descripcion')
+
+document.getElementById('nombre').innerText = nombre1
+document.getElementById('fecha').innerText = 'Fecha de nacimiento: ' + fecha1
+document.getElementById('genero').innerText = 'Género: ' + genero1
+document.getElementById('departamento').innerText = 'Departamento: ' + departamento1
+document.getElementById('ciudad').innerText = 'Ciudad: ' + ciudad1
+document.getElementById('telefono').innerText = 'Teléfono: ' + telefono1        
+document.getElementById('descripcion').innerText = 'Descripcion: ' + descripcion1
+
+    function mostrarDatosUsuario() {
+      var url = 'editar.html?nombre=' + encodeURIComponent(nombre1) +
+                '&fecha=' + encodeURIComponent(fecha1) +
+                '&genero=' + encodeURIComponent(genero1) +
+                '&departamento=' + encodeURIComponent(departamento1) +
+                '&ciudad=' + encodeURIComponent(ciudad1) +
+                '&telefono=' + encodeURIComponent(telefono1) +
+                '&descripcion=' + encodeURIComponent(descripcion1);
+    
+      window.location.href = url;
+    }
+</script>
