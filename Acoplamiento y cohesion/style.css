@@ -1,0 +1,53 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  background-color: #181818;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.playlist {
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: #282828;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border: 1px solid #333; 
+}
+
+h1 {
+  text-align: center;
+  color: #af40eb;
+  margin-bottom: 20px;
+}
+
+ul {
+  padding: 0;
+}
+
+.song-info {
+  background-color: #282828;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  border: 1px solid #333;
+}
+
+.song-info:hover {
+  background-color: #a61eea;
+}
+
+.song-info p {
+  margin: 0;
+  text-align: center; 
+}
+
+.total-songs {
+  text-align: center;
+  margin-top: 20px;
+  color: #b3b3b3;
+  font-size: 1.2em; 
+}
