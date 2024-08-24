@@ -1,0 +1,17 @@
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\bin\Debug\net8.0-windows\StoreProductManager.exe
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\bin\Debug\net8.0-windows\StoreProductManager.deps.json
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\bin\Debug\net8.0-windows\StoreProductManager.runtimeconfig.json
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\bin\Debug\net8.0-windows\StoreProductManager.dll
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\bin\Debug\net8.0-windows\StoreProductManager.pdb
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\obj\Debug\net8.0-windows\StoreProductManager.MainForm.resources
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\obj\Debug\net8.0-windows\StoreProductManager.ProductEditForm.resources
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\obj\Debug\net8.0-windows\StoreProductManager.csproj.GenerateResource.cache
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\obj\Debug\net8.0-windows\StoreProductManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\obj\Debug\net8.0-windows\StoreProductManager.AssemblyInfoInputs.cache
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\obj\Debug\net8.0-windows\StoreProductManager.AssemblyInfo.cs
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\obj\Debug\net8.0-windows\StoreProductManager.csproj.CoreCompileInputs.cache
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\obj\Debug\net8.0-windows\StoreProductManager.dll
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\obj\Debug\net8.0-windows\refint\StoreProductManager.dll
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\obj\Debug\net8.0-windows\StoreProductManager.pdb
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\obj\Debug\net8.0-windows\StoreProductManager.genruntimeconfig.cache
+C:\Users\blanc_ma7kouo\Documents\aprendiendo C#\StoreProductManager\StoreProductManager\obj\Debug\net8.0-windows\ref\StoreProductManager.dll
